@@ -1,1 +1,2 @@
-# SamWilliams
+# MynameisSamWilliams.
+IampursuingmymastersdegreeinDataAnalytics.
